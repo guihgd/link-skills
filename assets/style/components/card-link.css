@@ -68,3 +68,11 @@
 .card-link .background.-steam {
     background-image: radial-gradient(circle, #1c1c1c, #171717, #111111, #090909, #000000);
 }
+
+.card-link .background.-portfolio {
+    background-image: radial-gradient(circle, #654b00, #594202, #4d3902, #413002, #362800);
+}
+
+.card-link .background.-devsfriends {
+    background-image: linear-gradient(to right bottom, #9d4edd, #713cae, #4a2a81, #281854, #10002b);
+}
